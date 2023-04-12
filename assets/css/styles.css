@@ -1,0 +1,11 @@
+.rounded-circle {
+  border-radius: 50% !important;
+}
+
+img {
+  transform: perspective(0px);
+}
+
+img {
+}
+
